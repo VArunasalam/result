@@ -1,0 +1,7 @@
+E:\asset\14042025\Assesments\Assesments\GenericCode\APICode\Assessment\Assessment_Genric_Console\bin\Debug\Assessment_Genric_Console.exe.config
+E:\asset\14042025\Assesments\Assesments\GenericCode\APICode\Assessment\Assessment_Genric_Console\bin\Debug\Assessment_Genric_Console.exe
+E:\asset\14042025\Assesments\Assesments\GenericCode\APICode\Assessment\Assessment_Genric_Console\bin\Debug\Assessment_Genric_Console.pdb
+E:\asset\14042025\Assesments\Assesments\GenericCode\APICode\Assessment\Assessment_Genric_Console\obj\Debug\Assessment_Genric_Console.csproj.AssemblyReference.cache
+E:\asset\14042025\Assesments\Assesments\GenericCode\APICode\Assessment\Assessment_Genric_Console\obj\Debug\Assessment_Genric_Console.csproj.CoreCompileInputs.cache
+E:\asset\14042025\Assesments\Assesments\GenericCode\APICode\Assessment\Assessment_Genric_Console\obj\Debug\Assessment_Genric_Console.exe
+E:\asset\14042025\Assesments\Assesments\GenericCode\APICode\Assessment\Assessment_Genric_Console\obj\Debug\Assessment_Genric_Console.pdb
